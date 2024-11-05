@@ -1,0 +1,291 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What type of animal is a Flemish Giant?",
+      "type": "multiple",
+      "options": ["Rabbit", "Horse", "Dog", "Cow"],
+      "correctAnswer": "Rabbit",
+      "media": {
+        "url": "/images/mountains.jpg",
+        "aspect": "16:9"
+      }
+    },
+    {
+      "id": 2,
+      "question": "What is the title of this Song 🔇",
+      "type": "text",
+      "correctAnswer": "Take On Me",
+      "media": {
+        "type": "video",
+        "url": "src/assets/a-ha - Take On Me (Official Video) [Remastered in 4K].mp4",
+        "aspect": "16:9"
+      }
+    },
+    {
+      "id": 3,
+      "question": "In which movie did Dwyane “The Rock” Johnson land his first lead role?",
+      "type": "multiple",
+      "options": ["Terminator 3", "Riddick (1)", "Welcome to the Jungle", "The Mummy Returns"],
+      "correctAnswer": "The Mummy Returns",
+      "media": {
+        "type": "image",
+        "url": "src/assets/therock.webp",
+        "aspect": "1:1"
+      }
+    },
+    {
+      "id": 4,
+      "question": "How old was Joe Biden when he became President?",
+      "type": "multiple",
+      "options": ["78", "68", "82", "75"],
+      "correctAnswer": "78",
+      "media": {
+        "type": "image",
+        "url": "src/assets/joe-biden.jpg",
+        "aspect": "1:1"
+      }
+    },
+    {
+      "id": 5,
+      "question": "What's the longest double-digit scoring streak (>10 Pts) in NBA history of a single Player?",
+      "type": "multiple",
+      "options": ["153", "1226", "978", "98"],
+      "correctAnswer": "1226",
+      "media": {
+        "type": "image",
+        "url": "src/assets/lebron-james-china-nonanswer.webp",
+        "aspect": "16:9"
+      }
+    },
+    {
+      "id": 6,
+      "question": "Where does 'castoreum' (used in swedish liquor) come from?",
+      "type": "multiple",
+      "options": ["The bark of the castor oil plant", "The anal glands of beavers", "A type of seaweed", "The sap of the maple tree"],
+      "correctAnswer": "The anal glands of beavers",
+      "media": {
+        "type": "image",
+        "url": "src/assets/chef-cooking-passionately-stockcake.jpg",
+        "aspect": "1:1"
+      }
+    },{
+      "id": 7,
+      "question": "What was the German Youth Word of the Year 2023?",
+      "type": "multiple",
+      "options": ["Goofy", "NPC", "Side Eye", "YOLO"],
+      "correctAnswer": "Goofy",
+      "media": {}
+    },
+    {
+      "id": 8,
+      "question": "What celebrity is this?",
+      "type": "text",
+      "correctAnswer": "Michael Jordan",
+      "media": {
+        "type": "image",
+        "url": "src/assets/mj.jpg",
+        "aspect": "1:1"
+      }
+    },
+    {
+      "id": 9,
+      "question": "What movie ist this O.S.T. from?",
+      "type": "text",
+      "correctAnswer": "Harry Potter",
+      "media": {
+        "type": "audio",
+        "url": "src/assets/Hedwig's Theme.mp4",
+        "aspect": "1:1"
+      }
+    },
+    {
+      "id": 10,
+      "question": "In which year did Winnetou: Part 1 premiere in German cinemas?",
+      "type": "multiple",
+      "options": ["1955", "1963", "1970", "1980"],
+      "correctAnswer": "1963",
+      "media": {
+        "type": "image",
+        "url": "src/assets/13580918.jpg",
+        "aspect": "16:9"
+      }
+    }
+    ,
+    {
+      "id": 11,
+      "question": "What is the smallest mammal in the world?",
+      "type": "multiple",
+      "options": ["Pygmy possum", "American shrew mole", "Bumblebee bat", "Pygmy jerboa"],
+      "correctAnswer": "Bumblebee bat",
+      "media": {
+        "type": "image",
+        "url": "src/assets/61ethi3gr0L.jpg",
+        "aspect": "1:1"
+      }
+    },{
+      "id": 12,
+      "question": "What celebrity is this?",
+      "type": "text",
+      "correctAnswer": "Donald Trump",
+      "media": {
+        "type": "image",
+        "url": "src/assets/1557.webp",
+        "aspect": "1:1"
+      }
+    },
+    {
+      "id": 13,
+      "question": "In which year did the FIFA World Cup have the following official song?",
+      "type": "multiple",
+      "options": ["2022", "2026", "2002", "2018"],
+      "correctAnswer": "2018",
+      "media": {
+        "type": "audio",
+        "url": "src/assets/wmsong.mp4",
+        "aspect": "1:1"
+      }
+    },
+    {
+      "id": 14,
+      "question": "Which of the following politicians was NOT a member of the Swiss Federal Council in 2018?",
+      "type": "multiple",
+      "options": ["Simonetta Sommaruga", "Alain Berset", "Eveline Widmer-Schlumpf", "Ueli Maurer"],
+      "correctAnswer": "Eveline Widmer-Schlumpf",
+      "media": {
+        "aspect": "1:1"
+      }
+    },
+    {
+      "id": 15,
+      "question": "Which celebrity has the most followers on Instagram?",
+      "type": "multiple",
+      "options": ["Cristiano Ronaldo", "Ariane Grande", "Kylie Jenner", "Leo Messi"],
+      "correctAnswer": "Eveline Widmer-Schlumpf",
+      "media": {
+        "type": "image",
+        "aspect": "1:1",
+        "url": "src/assets/follow.png"
+      }
+    },
+    {
+      "id": 16,
+      "question": "How old is Oli?",
+      "type": "text",
+      "correctAnswer": "45",
+      "media": {
+        "type": "image",
+        "aspect": "16:9",
+        "url": "src/assets/oh.png"
+      }
+    },
+    {
+      "id": 17,
+      "question": "What is South Africas Most Popular Online Shop currently?",
+      "type": "multiple",
+      "options": ["Takealot", "Kalahari", "Groupon", "OneDayOnly"],
+      "correctAnswer": "Takealot",
+      "media": {
+        "type": "image",
+        "aspect": "16:9",
+        "url": "src/assets/lions.avif"
+      }
+    },
+    {
+      "id": 18,
+      "question": "What Countries Flag is This?",
+      "type": "multiple",
+      "options": ["China", "Papua New Guinea", "Bhutan", "Sri Lanka"],
+      "correctAnswer": "Bhutan",
+      "media": {
+        "type": "image",
+        "aspect": "16:9",
+        "url": "src/assets/Bhutan.png"
+      }
+    },
+    {
+      "id": 19,
+      "question": "How many years passed between the release of Avatar and its sequel, Avatar: The Way of Water?",
+      "type": "multiple",
+      "options": ["11", "12", "13", "14"],
+      "correctAnswer": "13",
+      "media": {
+        "type": "image",
+        "aspect": "16:9",
+        "url": "src/assets/sub-buzz-2850-1669213883-4.webp"
+      }
+    },
+    {
+      "id": 20,
+      "question": "What brand did Adidas buy their iconic three stripes logo from?",
+      "type": "multiple",
+      "options": ["Kharu Sports", "Hummel", "Diadora", "Le Coq Sportif"],
+      "correctAnswer": "Kharu Sports",
+      "media": {
+        "type": "image",
+        "aspect": "16:9",
+        "url": "src/assets/threestripes.png"
+      }
+    },
+    {
+      "id": 21,
+      "question": "How much did they pay for it?",
+      "type": "multiple",
+      "options": ["€5,000 and a pair of skis", "€1,600 and two bottles of whiskey", "€2,500 and a case of champagne", "€3,000 and a set of golf clubs"],
+      "correctAnswer": "€1,600 and two bottles of whiskey",
+      "media": {
+        "type": "image",
+        "aspect": "16:9",
+        "url": "src/assets/pay.jpg"
+      }
+    },
+    {
+      "id": 22,
+      "question": "What year was the first email sent?",
+      "type": "multiple",
+      "options": ["1971", "1965", "1983", "1978"],
+      "correctAnswer": "1971",
+      "media": {
+        "type": "image",
+        "aspect": "16:9",
+        "url": "src/assets/mail-wallpaper-2560x1440.jpg"
+      }
+    },
+    {
+      "id": 23,
+      "question": "What was the fist Marvel movie ever released?",
+      "type": "multiple",
+      "options": ["The Hulk", "Spider Man", "Howard the Duck", "Captain America"],
+      "correctAnswer": "Howard the Duck",
+      "media": {
+        "type": "image",
+        "aspect": "16:9",
+        "url": "src/assets/marvel_logo_2-wallpaper-2400x1350.jpg"
+      }
+    },
+    {
+      "id": 24,
+      "question": "What movie is the sound of this trailer from?",
+      "type": "multiple",
+      "options": ["Harry Potter and the Philosopher's Stone", "Percy Jackson & the Olympians: The Lightning Thief", "Doctor Strange", "Star Wars the Phantom Menace"],
+      "correctAnswer": "Star Wars the Phantom Menace",
+      "media": {
+        "type": "audio",
+        "aspect": "16:9",
+        "url": "src/assets/starwars.mp4"
+      }
+    },
+    {
+      "id": 25,
+      "question": "Which has the thickest fur of any mammal",
+      "type": "multiple",
+      "options": ["Polar bear", "Sea otter", "Arctic fox", "Musk ox"],
+      "correctAnswer": "Sea otter",
+      "media": {
+        "type": "image",
+        "aspect": "16:9",
+        "url": "src/assets/cat.jpg"
+      }
+    }
+  ]
+}
