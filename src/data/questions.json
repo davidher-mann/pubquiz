@@ -15,22 +15,23 @@
       "id": 2,
       "question": "What is the title of this Song 🔇",
       "type": "text",
-      "correctAnswer": "Take On Me",
+      "correctAnswer": "You Never Can Tell",
       "media": {
-        "type": "video",
-        "url": "src/assets/a-ha - Take On Me (Official Video) [Remastered in 4K].mp4",
-        "aspect": "16:9"
+        "type": "audio",
+        "url": "src/assets/you-never-can-tell.mp4",
+        
+        "aspect": "1:1"
       }
     },
     {
       "id": 3,
       "question": "In which movie did Dwyane “The Rock” Johnson land his first lead role?",
       "type": "multiple",
-      "options": ["Terminator 3", "Riddick (1)", "Welcome to the Jungle", "The Mummy Returns"],
+      "options": ["Terminator 3", "Riddick", "Welcome to the Jungle", "The Mummy Returns"],
       "correctAnswer": "The Mummy Returns",
       "media": {
         "type": "image",
-        "url": "src/assets/therock.webp",
+        "url": "src/assets/therock.png",
         "aspect": "1:1"
       }
     },
@@ -54,27 +55,27 @@
       "correctAnswer": "1226",
       "media": {
         "type": "image",
-        "url": "src/assets/lebron-james-china-nonanswer.webp",
+        "url": "src/assets/lebron-james-china-nonanswer.png",
         "aspect": "16:9"
       }
     },
     {
       "id": 6,
-      "question": "Where does 'castoreum' (used in swedish liquor) come from?",
+      "question": "Which spirit has the most alcohol?",
       "type": "multiple",
-      "options": ["The bark of the castor oil plant", "The anal glands of beavers", "A type of seaweed", "The sap of the maple tree"],
-      "correctAnswer": "The anal glands of beavers",
+      "options": ["Spirytus Rektyfikowany", "Everclear", "Absinthe", "Balkan Wodka 176"],
+      "correctAnswer": "Spirytus Rektyfikowany: 96%",
       "media": {
         "type": "image",
-        "url": "src/assets/chef-cooking-passionately-stockcake.jpg",
+        "url": "src/assets/snaps.png",
         "aspect": "1:1"
       }
     },{
       "id": 7,
-      "question": "What was the German Youth Word of the Year 2023?",
+      "question": "What was the German Youth Word of the Year 2009?",
       "type": "multiple",
-      "options": ["Goofy", "NPC", "Side Eye", "YOLO"],
-      "correctAnswer": "Goofy",
+      "options": ["hartzen", "Bro", "Deine Mudda", "YOLO"],
+      "correctAnswer": "hartzen",
       "media": {}
     },
     {
@@ -114,13 +115,13 @@
     ,
     {
       "id": 11,
-      "question": "What is the smallest mammal in the world?",
+      "question": "How long does it take to walk from zurich main station to zurich airport?",
       "type": "multiple",
-      "options": ["Pygmy possum", "American shrew mole", "Bumblebee bat", "Pygmy jerboa"],
-      "correctAnswer": "Bumblebee bat",
+      "options": ["3:12 h", "2:47 h", "2:18 h", "3:26 h"],
+      "correctAnswer": "2:18 h",
       "media": {
         "type": "image",
-        "url": "src/assets/61ethi3gr0L.jpg",
+        "url": "src/assets/bold.png",
         "aspect": "1:1"
       }
     },{
@@ -130,7 +131,7 @@
       "correctAnswer": "Donald Trump",
       "media": {
         "type": "image",
-        "url": "src/assets/1557.webp",
+        "url": "src/assets/trump.png",
         "aspect": "1:1"
       }
     },
@@ -158,14 +159,14 @@
     },
     {
       "id": 15,
-      "question": "Which celebrity has the most followers on Instagram?",
+      "question": "Which of these celebrities hasn't died of a drug overdose?",
       "type": "multiple",
-      "options": ["Cristiano Ronaldo", "Ariane Grande", "Kylie Jenner", "Leo Messi"],
-      "correctAnswer": "Eveline Widmer-Schlumpf",
+      "options": ["Coolio", "Aaron Carter", "Sinéad O'Connor", "Willi Herren"],
+      "correctAnswer": "Sinéad O'Connor",
       "media": {
         "type": "image",
-        "aspect": "1:1",
-        "url": "src/assets/follow.png"
+        "aspect": "16:9",
+        "url": "src/assets/cocain.png"
       }
     },
     {
@@ -181,14 +182,14 @@
     },
     {
       "id": 17,
-      "question": "What is South Africas Most Popular Online Shop currently?",
+      "question": "What is Netherland Most Succecful Online Shop currently?",
       "type": "multiple",
-      "options": ["Takealot", "Kalahari", "Groupon", "OneDayOnly"],
-      "correctAnswer": "Takealot",
+      "options": ["Zalando", "Bol", "Coolblue", "Amazon"],
+      "correctAnswer": "Bol",
       "media": {
         "type": "image",
         "aspect": "16:9",
-        "url": "src/assets/lions.avif"
+        "url": "src/assets/netherlands.png"
       }
     },
     {
@@ -229,14 +230,14 @@
     },
     {
       "id": 21,
-      "question": "How much did they pay for it?",
+      "question": "What is the best predictor for mortality of men?",
       "type": "multiple",
-      "options": ["€5,000 and a pair of skis", "€1,600 and two bottles of whiskey", "€2,500 and a case of champagne", "€3,000 and a set of golf clubs"],
-      "correctAnswer": "€1,600 and two bottles of whiskey",
+      "options": ["grip strength", "VO2 max", "leg strength", "IQ"],
+      "correctAnswer": "leg strength",
       "media": {
         "type": "image",
         "aspect": "16:9",
-        "url": "src/assets/pay.jpg"
+        "url": "src/assets/rip.jpg"
       }
     },
     {
@@ -265,19 +266,19 @@
     },
     {
       "id": 24,
-      "question": "What movie is the sound of this trailer from?",
+      "question": "Which of the following Snowplow Trackers does not exists?",
       "type": "multiple",
-      "options": ["Harry Potter and the Philosopher's Stone", "Percy Jackson & the Olympians: The Lightning Thief", "Doctor Strange", "Star Wars the Phantom Menace"],
+      "options": ["Tracking CLI", "Pixel Tracker", "Scalar Tracker", "GTM Tracker"],
       "correctAnswer": "Star Wars the Phantom Menace",
       "media": {
-        "type": "audio",
-        "aspect": "16:9",
-        "url": "src/assets/starwars.mp4"
+        "type": "image",
+        "aspect": "1:1",
+        "url": "src/assets/snowplow.png"
       }
     },
     {
       "id": 25,
-      "question": "Which has the thickest fur of any mammal",
+      "question": "Which has the thickest fur (Fell) of any mammal",
       "type": "multiple",
       "options": ["Polar bear", "Sea otter", "Arctic fox", "Musk ox"],
       "correctAnswer": "Sea otter",
