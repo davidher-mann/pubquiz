@@ -19,7 +19,6 @@
       "media": {
         "type": "audio",
         "url": "src/assets/you-never-can-tell.mp4",
-        
         "aspect": "1:1"
       }
     },
@@ -91,13 +90,14 @@
     },
     {
       "id": 9,
-      "question": "What movie ist this O.S.T. from?",
-      "type": "text",
-      "correctAnswer": "Harry Potter",
+      "question": "Sie fragt, was ich in Georgien mache? / Was denn wohl? Ich geh Orgien machen. ",
+      "type": "multiple",
+      "options": ["Arafat", "Kollegah", "Farid Bang", "Haftbefehl"],
+      "correctAnswer": "Farid Bang",
       "media": {
-        "type": "audio",
-        "url": "src/assets/Hedwig's Theme.mp4",
-        "aspect": "1:1"
+        "type": "image",
+        "url": "src/assets/.jpg",
+        "aspect": "16:9"
       }
     },
     {
@@ -171,7 +171,7 @@
     },
     {
       "id": 16,
-      "question": "How old is Oli?",
+      "question": "How old is Oli H.?",
       "type": "text",
       "correctAnswer": "45",
       "media": {
@@ -182,7 +182,7 @@
     },
     {
       "id": 17,
-      "question": "What is Netherland Most Succecful Online Shop currently?",
+      "question": "What is Netherland most succecful Online Shop?",
       "type": "multiple",
       "options": ["Zalando", "Bol", "Coolblue", "Amazon"],
       "correctAnswer": "Bol",
